@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{1B195E6E-EDA9-41E8-B04F-FAD5CBFF7C98}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B195E6E-EDA9-41E8-B04F-FAD5CBFF7C98}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\APP\\EDITOR\\GITHUBCONTINUE\\WINFILEMANAGEMENTER\\SRC\\CONSOLEAPPLICATION1\\YEARDIVIDER.CPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1B195E6E-EDA9-41E8-B04F-FAD5CBFF7C98}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:CONSOLEAPPLICATION1\\YEARDIVIDER.CPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\app\\Editor\\GithubContinue\\WinFileManagementer\\src\\ConsoleApplication1\\YearDivider.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApplication1\\YearDivider.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\app\\Editor\\GithubContinue\\WinFileManagementer\\src\\ConsoleApplication1\\Alerter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "ConsoleApplication1\\YearDivider.cpp",
               "ToolTip": "C:\\app\\Editor\\GithubContinue\\WinFileManagementer\\src\\ConsoleApplication1\\YearDivider.cpp",
               "RelativeToolTip": "ConsoleApplication1\\YearDivider.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-30T04:55:23.064Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "ConsoleApplication1\\Alerter.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-30T03:06:16.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T03:06:16.585Z"
             },
             {
               "$type": "Document",
@@ -58,7 +57,7 @@
               "RelativeDocumentMoniker": "ConsoleApplication1\\ConsoleApplication1.cpp",
               "ToolTip": "C:\\app\\Editor\\GithubContinue\\WinFileManagementer\\src\\ConsoleApplication1\\ConsoleApplication1.cpp",
               "RelativeToolTip": "ConsoleApplication1\\ConsoleApplication1.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAmwB4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-30T02:44:01.444Z",
               "EditorCaption": ""

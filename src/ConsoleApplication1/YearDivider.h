@@ -5,5 +5,6 @@
 class YearDivider : public TidyUper {
 public:
     void TidyUp(std::string path) override;
-
+    void CreateFile(std::string path);
+    void SepareteYear(std::string path);
 };
