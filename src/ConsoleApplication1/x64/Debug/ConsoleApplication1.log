@@ -1,0 +1,35 @@
+﻿  ConsoleApplication1.cpp
+C:\app\Editor\GithubContinue\WinFileManagementer\src\ConsoleApplication1\TidyUper.cpp(3,7): error C2011: 'TidyUper': 'class' 型の再定義
+  (ソース ファイル 'ConsoleApplication1.cpp' をコンパイルしています)
+      C:\app\Editor\GithubContinue\WinFileManagementer\src\ConsoleApplication1\TidyUper.cpp(3,7):
+      'TidyUper' の宣言を確認してください
+  
+C:\app\Editor\GithubContinue\WinFileManagementer\src\ConsoleApplication1\YearDivider.cpp(6,28): error C2504: 'TidyUper': 定義されていない基底クラスが宣言されています。
+  (ソース ファイル 'ConsoleApplication1.cpp' をコンパイルしています)
+  
+C:\app\Editor\GithubContinue\WinFileManagementer\src\ConsoleApplication1\YearDivider.cpp(8,10): error C3668: 'YearDivider::TidyUp': オーバーライド指定子 'override' を伴うメソッドは、基底クラス メソッドをオーバーライドしませんでした
+  (ソース ファイル 'ConsoleApplication1.cpp' をコンパイルしています)
+  
+C:\app\Editor\GithubContinue\WinFileManagementer\src\ConsoleApplication1\Alerter.cpp(3,7): error C2011: 'Alerter': 'class' 型の再定義
+  (ソース ファイル 'ConsoleApplication1.cpp' をコンパイルしています)
+      C:\app\Editor\GithubContinue\WinFileManagementer\src\ConsoleApplication1\Alerter.cpp(3,7):
+      'Alerter' の宣言を確認してください
+  
+C:\app\Editor\GithubContinue\WinFileManagementer\src\ConsoleApplication1\YearDivider.cpp(6,7): error C2011: 'YearDivider': 'class' 型の再定義
+  (ソース ファイル 'ConsoleApplication1.cpp' をコンパイルしています)
+      C:\app\Editor\GithubContinue\WinFileManagementer\src\ConsoleApplication1\YearDivider.cpp(6,7):
+      'YearDivider' の宣言を確認してください
+  
+C:\app\Editor\GithubContinue\WinFileManagementer\src\ConsoleApplication1\ConsoleApplication1.cpp(19,13): error C2079: 'alerter' が 未定義の class 'Alerter' で使用しています。
+C:\app\Editor\GithubContinue\WinFileManagementer\src\ConsoleApplication1\ConsoleApplication1.cpp(26,41): error C2027: 認識できない型 'YearDivider' が使われています。
+      C:\app\Editor\GithubContinue\WinFileManagementer\src\ConsoleApplication1\YearDivider.cpp(6,7):
+      'YearDivider' の宣言を確認してください
+  
+C:\app\Editor\GithubContinue\WinFileManagementer\src\ConsoleApplication1\ConsoleApplication1.cpp(27,5): error C2027: 認識できない型 'TidyUper' が使われています。
+      C:\app\Editor\GithubContinue\WinFileManagementer\src\ConsoleApplication1\TidyUper.cpp(3,7):
+      'TidyUper' の宣言を確認してください
+  
+C:\app\Editor\GithubContinue\WinFileManagementer\src\ConsoleApplication1\ConsoleApplication1.cpp(29,5): warning C4150: 'TidyUper' 型を削除するため delete 演算子が呼び出されましたが、定義がありません。
+      C:\app\Editor\GithubContinue\WinFileManagementer\src\ConsoleApplication1\TidyUper.cpp(3,7):
+      'TidyUper' の宣言を確認してください
+  
